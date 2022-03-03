@@ -1,0 +1,27 @@
+@import '~antd/dist/antd.css';
+
+.container {
+  width: 70wv;
+}
+
+.calender {
+  width: 70%;
+  margin: auto;
+}
+
+.ant-btn-primary {
+  width: 18px;
+  height: 20px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.ant-picker-calendar-date-content  {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
